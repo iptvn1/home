@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iptvn1.shop/sitemap.xml
